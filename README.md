@@ -1,4 +1,4 @@
-**How to import?**
+**How to import WA?**
 1. Open WA.
 2. Press the import button.
 ![image](https://github.com/ProgramM1STER/WA-for-sirus/assets/58431338/e4187751-0e51-4ee9-897a-d98711608a28)
