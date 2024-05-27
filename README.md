@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <details> 
-        <summary>useful info:</summary>
-         <p>https://discord.gg/addony-dlia-sirus-su-914079030125420565 - Addons</p>
+        <summary>useful info & links:</summary>
+         <p>https://discord.gg/addony-dlia-sirus-su-914079030125420565 - Sirus Addons discord server</p>
          <p>https://github.com/Mr-Dan/AddonUpdater/archive/refs/heads/main.zip - AddonUpdater download link</p>
         </details> 
 </html>
