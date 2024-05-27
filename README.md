@@ -1,3 +1,11 @@
+<!DOCTYPE html> 
+<details> 
+        <summary>useful info:</summary> 
+         https://discord.gg/addony-dlia-sirus-su-914079030125420565 - Addons
+         https://github.com/Mr-Dan/AddonUpdater/archive/refs/heads/main.zip - AddonUpdater download link
+</details> 
+</html>
+
 **How to import WA?**
 1. Open WA.
 2. Press the import button.
