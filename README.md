@@ -1,9 +1,9 @@
 <!DOCTYPE html> 
 <details> 
-        <summary>useful info:</summary> 
+        <summary>useful info:</summary> <pre>
          https://discord.gg/addony-dlia-sirus-su-914079030125420565 - Addons
          https://github.com/Mr-Dan/AddonUpdater/archive/refs/heads/main.zip - AddonUpdater download link
-</details> 
+        </pre></details> 
 </html>
 
 **How to import WA?**
